@@ -3,6 +3,16 @@ Chinese textStrings by [@zj713300](mailto:23548024+zj713300@users.noreply.github
 
 This is the original README below:
 
+
+
+
+
+
+
+
+
+
+
 ![banner](https://i.imgur.com/f6FcrhT.png)
 
 *a game about news cycles, vicious cycles, infinite cycles*

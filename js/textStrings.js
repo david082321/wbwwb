@@ -75,7 +75,7 @@ var textStrings = {
     "thankYouForPlaying" : "感谢赏玩。" ,
     
     // (preload_play.png)
-    "playButton"         : "PLAY" ,
+    "playButton"         : "开始游戏" ,
     
     // (end_button.png) Post Credits
     "otherWorkButton"    : "看看我的其他作品" ,

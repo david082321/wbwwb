@@ -21,7 +21,7 @@ var textStrings = {
     "areTheyScared"        : "拍出方方吼他们的照片"       , // not used
     "squaresSnubCircles"   : "方方不喜欢圆圆"                                  ,
     "areTheySnubbed"       : "拍出圆圆吼他们的照片"        , // not used
-    "everyoneHates"        : "仇恨蒙蔽了人们的眼睛"                           ,
+    "everyoneHates"        : "仇恨蒙蔽了人们的双眼"                           ,
     "almostEveryoneHates"  : "大多数人都讨厌对方"                     ,
     "squaresHateCircles"   : "方方讨厌圆圆"                                  ,
     "circlesHateSquares"   : "圆圆讨厌方方"                                  ,

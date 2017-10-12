@@ -417,38 +417,38 @@ var textStrings_CN = {
     // Act 1
     "niceHat"              : "流行时尚"                                          ,
     "outtaHere"            : "滚出去！"                                ,
-    "getARoom"             : "恶心，去开房吧"                                  ,
+    "getARoom"             : "真恶心，去开房吧"                                  ,
     "notCoolAnymore"       : "帽子已经不流行了"                          ,
     "tvOnTv"               : "电视在电视里！"                                        ,
     "cricky"               : "小蟋蟀"                                        ,
     "tooManyCrickets"      : "蟋蟀泛滥！"                         ,
-    "normalPeep"           : "没有什么大新闻"                                    ,
-    "normalPeeps"          : "没有什么大新闻"                                ,
+    "normalPeep"           : "并没有什么大新闻"                                    ,
+    "normalPeeps"          : "并没有什么大新闻"                                ,
     "wowNothing"           : "什么都没有拍到"                                  ,
     
     // Act 2
     "crazySquareAttacks"   : "疯狂的方方"                                 ,
     "justMissed"           : "错过了精彩瞬间"                                 ,
-    "somethingInteresting" : "(拍出他搞事情的画面)" ,
-    "whoIsScreaming"       : "(谁吓到了他)"               ,
+    "somethingInteresting" : "拍出他搞事的画面" ,
+    "whoIsScreaming"       : "谁吓到了他"               ,
     "circleFearsSquares"   : "圆圆害怕方方"                                  ,
-    "whoScaresThem"        : "(谁在害怕他们)"         ,
-    "areTheyScared"        : "(ya gotta catch 'em *being* scared by a square)"       , // not used
+    "whoScaresThem"        : "谁在害怕他们"         ,
+    "areTheyScared"        : "拍出方方吼他们的照片"       , // not used
     "squaresSnubCircles"   : "方方不喜欢圆圆"                                  ,
-    "areTheySnubbed"       : "(ya gotta catch 'em *while* snubbing a circle)"        , // not used
-    "everyoneHates"        : "仇恨蒙蔽了所有人的眼睛"                           ,
-    "almostEveryoneHates"  : "几乎每个人都讨厌对方"                     ,
+    "areTheySnubbed"       : "拍出圆圆吼他们的照片"        , // not used
+    "everyoneHates"        : "仇恨蒙蔽了人们的眼睛"                           ,
+    "almostEveryoneHates"  : "大多数人都讨厌对方"                     ,
     "squaresHateCircles"   : "方方讨厌圆圆"                                  ,
     "circlesHateSquares"   : "圆圆讨厌方方"                                  ,
-    "areTheyYelling"       : "(ya gotta catch 'em *yelling* at others)"              , // not used
-    "nerdsNow"             : "书呆子们在做什么"                        ,
+    "areTheyYelling"       : "拍出他们吼别人的照片"              , // not used
+    "nerdsNow"             : "坏蛋们在做什么"                        ,
     "schockedPeep"         : "这有什么好震惊的？"                              ,
     "whatever"             : "随你咯╭(╯^╰)╮"                                              ,
     
     // Act 3
     "ellipsis"             : "卧槽......"                                                 ,
     "coolNoMore"           : "你以为你很酷吗？"           ,
-    "beScared"             : "害怕吧，愤怒吧。"                                  ,
+    "beScared"             : "恐惧吧，愤怒吧。"                                  ,
     
     // MANIFESTO
     "manifesto" : [
@@ -458,7 +458,7 @@ var textStrings_CN = {
        //"peace is boring. conflict gets clicks." ,
        "每个故事都需要一个冲突作为楔子，所以..."  ,
        //"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
-       "给观众他们想要的东西"
+       "给观众他们想要的"
     ] ,
     
     // -- Strings currently in graphics resources --
@@ -487,7 +487,7 @@ var textStrings_CN = {
     "lastButNotLeast"    : "最后，最重要的是：" ,
     
     // (credits0008.png)
-    "thankYouForPlaying" : "感谢玩家们。" ,
+    "thankYouForPlaying" : "感谢赏玩。" ,
     
     // (preload_play.png)
     "playButton"         : "PLAY" ,
@@ -505,7 +505,7 @@ var textStrings_CN = {
     "toBeContinued"      : "(to be continued!)" ,
     
     // (quote0002.png)
-    "WBWWB"              : "我们终将成为我们所关注的那样。" ,
+    "WBWWB"              : "我们也会成为电视里的人。" ,
     "WSOTATOTSU"         : "我们塑造工具，工具也塑造我们。" ,
     
     // (quote0003.png)

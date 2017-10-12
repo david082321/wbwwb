@@ -441,13 +441,13 @@ var textStrings_CN = {
     "squaresHateCircles"   : "方方讨厌圆圆"                                  ,
     "circlesHateSquares"   : "圆圆讨厌方方"                                  ,
     "areTheyYelling"       : "(ya gotta catch 'em *yelling* at others)"              , // not used
-    "nerdsNow"             : "这些书呆子们在做什么"                        ,
+    "nerdsNow"             : "书呆子们在做什么"                        ,
     "schockedPeep"         : "这有什么好震惊的？"                              ,
     "whatever"             : "随你咯╭(╯^╰)╮"                                              ,
     
     // Act 3
     "ellipsis"             : ". . ."                                                 ,
-    "coolNoMore"           : "你太土了！听不见吗？"           ,
+    "coolNoMore"           : "你以为你很酷吗？"           ,
     "beScared"             : "害怕吧，愤怒吧。"                                  ,
     
     // MANIFESTO
@@ -465,7 +465,7 @@ var textStrings_CN = {
     
     // (bg_preload.png) Preload screen
     "playingTime"        : "游戏时间：5分钟" ,
-    "warning"            : "警告：下列场景\n包含势利\n粗暴，以及大屠杀\n观众最好拥有判断力" ,
+    "warning"            : "警告：下列场景\n包含势利，粗暴\n以及大屠杀\n观众最好拥有判断力" ,
     
     // (cam-instructions.png) Camera Instructions
     "pointAndClick"      : "拍摄镜头" ,
@@ -481,7 +481,7 @@ var textStrings_CN = {
     "manyThanks"         : "感谢测试本游戏的人：" ,
     
     // (credits000[3,4,5,6].png)
-    "patreonSupporters"  : "以及捐款支持我的人：" ,
+    "patreonSupporters"  : "感谢捐款支持我的人：" ,
     
     // (credits0007.png)
     "lastButNotLeast"    : "最后，最重要的是：" ,

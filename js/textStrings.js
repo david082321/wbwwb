@@ -417,7 +417,7 @@ var textStrings_CN = {
     // Act 1
     "niceHat"              : "流行时尚"                                          ,
     "outtaHere"            : "滚出去！"                                ,
-    "getARoom"             : "真恶心，去开房吧"                                  ,
+    "getARoom"             : "真恶心，去开房吧！"                                  ,
     "notCoolAnymore"       : "帽子已经不流行了"                          ,
     "tvOnTv"               : "电视在电视里！"                                        ,
     "cricky"               : "小蟋蟀"                                        ,

@@ -446,7 +446,7 @@ var textStrings_CN = {
     "whatever"             : "随你咯╭(╯^╰)╮"                                              ,
     
     // Act 3
-    "ellipsis"             : ". . ."                                                 ,
+    "ellipsis"             : "卧槽......"                                                 ,
     "coolNoMore"           : "你以为你很酷吗？"           ,
     "beScared"             : "害怕吧，愤怒吧。"                                  ,
     

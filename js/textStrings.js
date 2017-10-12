@@ -515,4 +515,4 @@ var textStrings_CN = {
     "misatrributed"      : "(并不是他说的↑)" ,
 };
 
-var textStrings = CN
+var textStrings = textStrings_CN

@@ -2,7 +2,7 @@ Forked from [ncase/wbwwb](github.com/ncase/wbwwb)
 
 Chinese textStrings by [@zj713300](mailto:23548024+zj713300@users.noreply.github.com)
 
-###该游戏不需要Flash，手机电脑都能玩，不需要插件。
+### 该游戏不需要Flash，手机电脑都能玩，不需要插件。
 请玩家反馈可能存在的bug，附上您使用的浏览器及环境(电脑 iOS 安卓)，感谢。
 手机浏览器上已发现问题如下:
 对于所有环境:
@@ -13,7 +13,7 @@ Chinese textStrings by [@zj713300](mailto:23548024+zj713300@users.noreply.github
 仅iOS:
 iOS自带浏览器可完美运行。(上文描写过的，因弹窗式通知等引起的情况除外)
 
-###由于本人没学过JS和HTML，所以写的很烂，欢迎大佬帮助完善网页体验。
+### 由于本人没学过JS和HTML，所以写的很烂，欢迎大佬帮助完善网页体验。
 
 ---
 ---

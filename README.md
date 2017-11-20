@@ -25,7 +25,7 @@ Chinese textStrings by [@zj713300](mailto:23548024+zj713300@users.noreply.github
 
 iOS自带浏览器可完美运行。(上文描写过的，因弹窗式通知等引起的情况除外)
 
-### 由于本人没学过JS和HTML，所以写的很烂，欢迎大佬帮助完善网页体验。
+### 由于本人没学过JS，CSS和HTML，所以写的很烂，欢迎大佬帮助完善网页体验。
 
 ---
 ---

@@ -18,16 +18,16 @@ var textStrings = {
     "whoIsScreaming"       : "誰嚇到了他"               ,
     "circleFearsSquares"   : "圓圓害怕方方"                                  ,
     "whoScaresThem"        : "誰在害怕他們"         ,
-    "areTheyScared"        : "拍出方方吼他們的照片"       , // not used
+    "areTheyScared"        : "拍方方吼他們的照片"       , // not used
     "squaresSnubCircles"   : "方方不喜歡圓圓"                                  ,
-    "areTheySnubbed"       : "拍出圓圓吼他們的照片"        , // not used
-    "everyoneHates"        : "仇恨蒙蔽了人們的雙眼"                           ,
+    "areTheySnubbed"       : "拍圓圓吼他們的照片"        , // not used
+    "everyoneHates"        : "仇恨蒙蔽人們的雙眼"                           ,
     "almostEveryoneHates"  : "大多數人都討厭對方"                     ,
     "squaresHateCircles"   : "方方討厭圓圓"                                  ,
     "circlesHateSquares"   : "圓圓討厭方方"                                  ,
     "areTheyYelling"       : "拍出他們吼人的照片"              , // not used
     "nerdsNow"             : "壞蛋們在做什麼"                        ,
-    "schockedPeep"         : "這有什麼好震驚的？"                              ,
+    "schockedPeep"         : "這有什麼好驚訝的？"                              ,
     "whatever"             : "隨你咯╭(╯^╰)╮"                                              ,
     
     // Act 3
@@ -41,7 +41,7 @@ var textStrings = {
        "誰會看這種頻道？",
        "和平很無趣，暴力才是新聞。"    ,
        //"peace is boring. conflict gets clicks." ,
-       "每個故事都需要衝突作引子，所以..."  ,
+       "每個故事都需要衝突作引子..."  ,
        //"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
        "給觀眾他們想要的"
     ] ,

@@ -25,7 +25,7 @@ var textStrings = {
     "almostEveryoneHates"  : "大多數人都討厭對方"                     ,
     "squaresHateCircles"   : "方方討厭圓圓"                                  ,
     "circlesHateSquares"   : "圓圓討厭方方"                                  ,
-    "areTheyYelling"       : "拍出他們吼別人的照片"              , // not used
+    "areTheyYelling"       : "拍出他們吼人的照片"              , // not used
     "nerdsNow"             : "壞蛋們在做什麼"                        ,
     "schockedPeep"         : "這有什麼好震驚的？"                              ,
     "whatever"             : "隨你咯╭(╯^╰)╮"                                              ,
@@ -39,9 +39,9 @@ var textStrings = {
     "manifesto" : [
        //"as if you viewers want GOOD news"       ,
        "誰會看這種頻道？",
-       "和平很無趣，暴力才能製造新聞。"    ,
+       "和平很無趣，暴力才是新聞。"    ,
        //"peace is boring. conflict gets clicks." ,
-       "每個故事都需要一個衝突作為楔子，所以..."  ,
+       "每個故事都需要衝突作引子，所以..."  ,
        //"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
        "給觀眾他們想要的"
     ] ,
